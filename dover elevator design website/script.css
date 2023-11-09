@@ -1,0 +1,9 @@
+function callElevator() {
+    console.log("Elevator called.");
+    // Add logic for elevator movement and response
+}
+
+function recallElevator() {
+    console.log("Elevator recalled.");
+    // Add logic for recalling the elevator to a specific floor
+}
